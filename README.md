@@ -2,6 +2,9 @@
 
 ##Getting started:
 
+###Notes from Sean:
+- You should probably run bin/lime.py init before doing stuff
+
 ###Mac OS X and Linux users:
 
 - Requirements: Python 2.6+, Git
